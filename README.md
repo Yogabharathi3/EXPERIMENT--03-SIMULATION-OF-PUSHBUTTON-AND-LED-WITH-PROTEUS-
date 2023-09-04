@@ -99,13 +99,15 @@ HAL_Delay(500);
 }
 ```
 ## Output screen shots of proteus  :
-![output](image1.png)
+![output](pm3a.jpg)
+![output](pm3b.jpg)
+
 
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
- 
+ ![output](pm3c.jpg)
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
